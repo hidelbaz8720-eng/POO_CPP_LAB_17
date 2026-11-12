@@ -1,0 +1,4 @@
+nom=Hamza
+langage=C++
+version=17
+formation=ENS Marrakech
